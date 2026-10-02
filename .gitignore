@@ -1,0 +1,40 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+eclipse.log
+
+# OS files
+.DS_Store
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# Output of the go coverage tool
+*.out
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Compiled files
+*.so
+*.o
+*.a
